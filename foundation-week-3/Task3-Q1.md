@@ -1,0 +1,1 @@
+Python has lots of packadges which will provide functions/API to use. In order to install these non-standard packagdes to your system, we need to use pip. Using pip can be easy for users to both install and uninstall packages.
