@@ -1,0 +1,22 @@
+1. Program is a set of ordered operations for computers to perform tasks
+2. Process is when program is taking ordered operations and perform tasks.
+   We can treat process as an example of a running program.
+3. Cache is used to store temporary data so that accessing data is faster.
+4. Thread: within the process, the execution is created.
+   Multithread: It allows for multithreads to be created within a process. Each thread is running independently but sharing resources concurrently.
+5. GIL is Global Interpreter Lock which allows only one thread to hold the control.
+6. Concurrency is multiple tasks running in overlapping periods but the CPU is used only for one task at a time.
+   The CPU is fastly switching among different threads.
+   Parallelism: When we have multiple processors and can run processes across them at the same time.
+   Concurrency is running/switching multiple instructions at the same time but Parallelism is running instructions at the same time.
+
+7. DRY:  Don't Repeat Yourself
+   KISS: Keep it Simple Stupid
+   BDUF: Big Design Up Front
+8. Garbage Collector runs periodically to free up memory space to delete unwanted objects.
+9. A deadlock is when processes block each other and nothing can proceed. One process is expected to release a lock.
+   In livelock, the states of the processes change repeatedly but no actual progress is made. 
+10. Flask is a web framework to develop web applications
+
+
+
