@@ -1,0 +1,13 @@
+Python 2 uses print
+Python 3 uses print()   
+
+
+Python 2 shows integer value when two integers divided
+Python 3 shows a float value when two integers divided 
+
+Python 2 uses xrange()
+Python 3 uses range()
+
+
+Python 2: global variable value will change inside for loop
+Python 3: variable value will not change

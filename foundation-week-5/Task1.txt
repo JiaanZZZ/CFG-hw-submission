@@ -1,0 +1,20 @@
+Question 1
+SCRUM CEREMONIES
+    ·Product backlog refinement: Act of adding details, estimates and items to product backlog
+    ·Sprint planning: For each sprint, product backlog details and acceptance criteria needs to be clarified. This is a planning session of what should be conducted for the next period of time. 
+    ·Daily scrum: Every day the whole team will go through some updates and plan tasks for the day during a short meeting.
+    ·Sprint review: It takes palce at the end of the sprint, just before the retrospective to evaluate features and consider plan for the product.
+    ·Sprint retrospective: At the end of each sprint, the team will review on what went well during the sprint and what can be improved.
+
+SCRUM ROLES
+    ·ScrumMaster: help facilitate scrum and support the product owner. The scrum master is responsible for the scrum's team's effectiveness.
+    ·Product Owner: represent the needs of many stakeholders in the product backlog. They need to have a clear vision that emphasizes the value of the product.
+    ·Development Team: It is a group of people that work together to create software, who do the actual work.
+
+
+
+Question 2
+1. create SQL table to store bookings, appointments, schedules 
+1. make SQL and backend connection
+2. query class info by user booking id in SQL 
+3. when data is fetched from SQL, need to display them on the website
