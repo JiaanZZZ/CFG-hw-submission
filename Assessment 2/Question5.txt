@@ -1,0 +1,4 @@
+Sprint planning: It is used to plan the objects the team wants to achieve for this sprint
+Daily Standup: The team will talk about any blockers and updates on current tasks.
+Sprint Retrospective: The team will reflect on what has been done well and what has not gone well for the whole sprint.
+
