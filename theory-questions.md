@@ -20,6 +20,7 @@ Angular is an open-source, JavaScript framework written in TypeScript. Users can
 ### Please describe Redux in as much detail - especially consider: why would someone use it? What is it? What's the benefit of using it? Are there any potential drawbacks to using it? How can it be added to a project? What is dispatch, provider, actions, etc? (15 marks)
 Redux is a state store that keeps the states of your application and each component can access any state from this store. In an app where data is shared among components, it is difficult to manage different states. Redux allows you to manage your app’s state in a single place and keep changes in your app more predictable and traceable, especially for large-scale apps. Redux is more maintainable and easy for debugging.
 There is a central store that holds the entire state of the application. Each component can access the stored state without having to use props from one component to another. There are three parts: actions, store, and reducers.
+
 ACTION: Actions are events and can send data from the application to the Redux store via store.dispatch(). Action needs to contain a type of action and payload that contains the information that should be worked on by the action.
  
 Reducer: Reducers are pure functions that take the current state of an application, perform an action and return a new state. How the state of an application changes is dependent on the action sent to the store. 
