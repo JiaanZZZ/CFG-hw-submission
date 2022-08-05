@@ -3,6 +3,7 @@ React is a javascript library created by Facebook. Components are the building b
 
 ### What are Props? What is State? What is the difference between them? (10 marks)
 Props are variables passed to the component by its parent component while State is still variables and directly initialized and managed by the component. Name is a state in sampleParent component and passed as a prop to sampleChild class.
+<img width="377" alt="Screenshot 2022-08-05 at 11 51 09" src="https://user-images.githubusercontent.com/74383677/183062590-035adb68-b286-4211-aec9-d69b0a83292c.png">
 
 
 ### What are React Hooks? How do they differ from existing lifecycle methods? (10 marks)
