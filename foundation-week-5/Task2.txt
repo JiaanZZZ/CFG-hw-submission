@@ -1,0 +1,14 @@
+SQL Tables as database required to store:
+    1. films for each date
+    2. for each film, there should be a list of displaying time, venue, available tickets
+    3. For each film, a fact table to show what the detailed info of this film.
+
+A website or phone app is required to show the booking system.
+People can search for available film for a day, and check info about the film 
+When tickets are sold out, no more booking can be made.
+We also need to use payment API to take payments
+
+Concerns: 
+    1. Multiple people can book the same ticket at the same time.
+    2. Too many people use the app at the same time may cause crush
+    3. Remaining tickets should always be updated in case people paid but did not get the ticket.

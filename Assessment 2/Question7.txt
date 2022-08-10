@@ -1,0 +1,6 @@
+We can use mysql.connector and create a dictionary to store database details such as host, user, password, database.
+Then we can use mysql.connector.connect with database details to connect.
+Afterwards, we use connection.cursor().execute(query,variable). For the query part, just input the normal SQL language.
+If we want to fetch data, we can use for loop to get results from cursor.
+If we want to insert data, we use cursor.execute(query,variable)
+

@@ -1,0 +1,4 @@
+Try: test codes that may have errors
+except: if there are errors, how you handle them
+else: if there is no error, some codes can be executed
+finally: whatever happened in the previous blocks, the code here will still execute.
